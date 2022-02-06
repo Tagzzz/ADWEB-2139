@@ -12,7 +12,7 @@ import { GradebookComponent } from './gradebook/gradebook.component';
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule  //from FormsModule import
   ],
   providers: [],
   bootstrap: [AppComponent]
